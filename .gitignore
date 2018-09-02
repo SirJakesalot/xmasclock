@@ -1,0 +1,7 @@
+.cache/
+*.pyc
+*.swp
+*.egg
+env/
+.idea/
+.pytest_cache
